@@ -14,4 +14,3 @@ os 2.7.18
 scipy.io 1.5.4
 
 
-# multi-instance-learning-and-multi-scale-features
